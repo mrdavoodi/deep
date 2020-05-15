@@ -53,3 +53,4 @@
   برای اطلاع از زمان برگزاری وبینار در گروه زیر عضو شوید
   </div>
 ## [Join the group](https://groups.google.com/forum/#!forum/deep-learning-meeting)
+## [Telegram Channel](https://t.me/meetdl)

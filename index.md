@@ -48,7 +48,8 @@
 <h1 dir="rtl">
   ورود به وبینار
   </h1>
- <div dir="rtl">
-  خیلی ساده بر روی لینک زیر کلیک کنید و وارد میتینگ شوید.
+
+<div dir="rtl">
+  برای اطلاع از زمان برگزاری وبینار در تقویم زیر عضو شوید
   </div>
-## [Open The Webinar](https://meet.google.com/tru-jksa-hxq)
+  ## [Join the calendar](https://calendar.google.com/calendar?cid=a3JzZWJoMGcxNXU5NXZpZTBrc2thczIzOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)

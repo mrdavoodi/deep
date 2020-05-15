@@ -50,6 +50,6 @@
   </h1>
 
 <div dir="rtl">
-  برای اطلاع از زمان برگزاری وبینار در تقویم زیر عضو شوید
+  برای اطلاع از زمان برگزاری وبینار در گروه زیر عضو شوید
   </div>
-## [Join the calendar](https://calendar.google.com/calendar?cid=a3JzZWJoMGcxNXU5NXZpZTBrc2thczIzOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+## [Join the group](https://groups.google.com/forum/#!forum/deep-learning-meeting)

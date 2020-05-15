@@ -45,4 +45,10 @@
 <div dir="rtl">
 10.دکمه OK را بزنید و پنجره را ببندید.
   </div>
-
+<h1 dir="rtl">
+  ورود به وبینار
+  </h1>
+ <div dir="rtl">
+  خیلی ساده بر روی لینک زیر کلیک کنید و وارد میتینگ شوید.
+  </div>
+[Open The Webinar](https://meet.google.com/tru-jksa-hxq)

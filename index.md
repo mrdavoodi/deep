@@ -52,4 +52,4 @@
 <div dir="rtl">
   برای اطلاع از زمان برگزاری وبینار در تقویم زیر عضو شوید
   </div>
-## now:[Join the calendar](https://calendar.google.com/calendar?cid=a3JzZWJoMGcxNXU5NXZpZTBrc2thczIzOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+## [Join the calendar](https://calendar.google.com/calendar?cid=a3JzZWJoMGcxNXU5NXZpZTBrc2thczIzOTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)

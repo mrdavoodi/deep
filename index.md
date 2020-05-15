@@ -51,4 +51,4 @@
  <div dir="rtl">
   خیلی ساده بر روی لینک زیر کلیک کنید و وارد میتینگ شوید.
   </div>
-[Open The Webinar](https://meet.google.com/tru-jksa-hxq)
+## [Open The Webinar](https://meet.google.com/tru-jksa-hxq)

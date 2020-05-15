@@ -7,7 +7,7 @@
 <div dir="rtl">
 پیشنهاد من استفاده از shecan.ir هست که با سرعت خوبی میتونید تحریم ها رو دور بزنید :)
 </div>
-shecan.ir [Link] (https://shecan.ir)
+[Shecan.ir](https://shecan.ir)
 <h1 dir="rtl">
 تنظیم شکن در ویندوز
 </h1>
